@@ -1,0 +1,1 @@
+# slm-updater-addon
